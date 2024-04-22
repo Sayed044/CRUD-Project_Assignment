@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    width: 1440px;
+    height: 858px;
+    top: -7839px;
+    left: 6272px;
+}
+
+.sidebar .cude{
+    text-decoration: none !important;
+}
+
+.sidebar .nav {
+    padding: 0 !important;
+}
+
+.sidebar ul li:hover {
+    background: blue !important;
+}
+
+.Update{
+    text-decoration: none;
+}
+.Create{
+    text-decoration: none;
+}
+.loader{
+    margin-top: 30vh;
+}
