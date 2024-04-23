@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="080e378b-1e62-4b6f-8d2e-2b2f92f516f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/file/file/node_modules/go/bin/node.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="d0ce9281-cb83-41a8-a3d5-9ddb0ea9915c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/CrudController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/CreateFood.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route/api.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +26,7 @@
   "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2fV8tKGSszA0udRgL8YdoDDYufe" />
+  <component name="ProjectId" id="2fVS2tY5dxNLiV32nyqXgmdQ7oq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,12 +54,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="080e378b-1e62-4b6f-8d2e-2b2f92f516f9" name="Changes" comment="" />
-      <created>1713875101065</created>
+      <changelist id="d0ce9281-cb83-41a8-a3d5-9ddb0ea9915c" name="Changes" comment="" />
+      <created>1713884551593</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713875101065</updated>
-      <workItem from="1713875103188" duration="617000" />
+      <updated>1713884551593</updated>
+      <workItem from="1713884558911" duration="3214000" />
     </task>
     <servers />
   </component>
